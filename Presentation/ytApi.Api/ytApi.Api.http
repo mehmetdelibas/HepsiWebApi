@@ -1,0 +1,6 @@
+@ytApi.Api_HostAddress = http://localhost:5081
+
+GET {{ytApi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
